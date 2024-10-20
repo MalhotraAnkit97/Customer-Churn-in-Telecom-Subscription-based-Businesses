@@ -73,8 +73,3 @@ The **SVM with RBF Kernel (After Hyperparameter Tuning)** showed the best perfor
 2. **Enhanced Customer Support:** Focus on fiber optic users and long-tenure customers by providing improved technical support and satisfaction guarantees.
 3. **Loyalty Programs:** Implement loyalty rewards and recognize customer milestones to reduce churn among long-term customers.
 4. **Family-Oriented Plans:** Develop family-friendly packages and flexible plans to cater to the needs of customers with dependents.
-
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/repositoryname.git
